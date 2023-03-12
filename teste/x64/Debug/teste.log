@@ -1,0 +1,3 @@
+﻿  teste.cpp
+C:\Users\ALEduardoGuilhermeSg\source\repos\teste\teste\teste.cpp(40): warning C4715: 'levantar': nem todos os caminhos de controle retornam um valor
+  teste.vcxproj -> C:\Users\ALEduardoGuilhermeSg\source\repos\teste\x64\Debug\teste.exe
